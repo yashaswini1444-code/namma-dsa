@@ -31,8 +31,8 @@ namma-dsa/
 | Day | Topic | Problems (LeetCode #) | Status |
 |-----|-------|-----------------------|--------|
 | 01 | Setup + Python foundations | 412, 1672, 9 | 🟡 |
-| 02 | Python data structures | 1929, 1512, 2011, 1108 | ⬜ |
-| 03 | Time & space complexity (Big O) | 268, 1295, 136 | ⬜ |
+| 02 | Python data structures | 1929, 1512, 2011, 1108 | ✅ |
+| 03 | Time & space complexity (Big O) | 268, 1295, 136 | ✅ |
 | 04 | Arrays | 121, 26, 27, 283, 189 | ⬜ |
 | 05 | Two pointers | 344, 125, 977, 167, 11 | ⬜ |
 | 06 | Sliding window | 643, 1456, 3, 209 | ⬜ |
